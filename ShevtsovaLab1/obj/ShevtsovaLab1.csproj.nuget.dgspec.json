@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\4 курс\\ТРПО\\backup\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj": {}
+    "E:\\4 курс\\ТРПО\\Лаб 1\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj": {}
   },
   "projects": {
-    "E:\\4 курс\\ТРПО\\backup\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj": {
+    "E:\\4 курс\\ТРПО\\Лаб 1\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\4 курс\\ТРПО\\backup\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj",
+        "projectUniqueName": "E:\\4 курс\\ТРПО\\Лаб 1\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj",
         "projectName": "ShevtsovaLab1",
-        "projectPath": "E:\\4 курс\\ТРПО\\backup\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj",
+        "projectPath": "E:\\4 курс\\ТРПО\\Лаб 1\\ShevtsovaLab1\\ShevtsovaLab1\\ShevtsovaLab1.csproj",
         "packagesPath": "C:\\Users\\el432\\.nuget\\packages\\",
-        "outputPath": "E:\\4 курс\\ТРПО\\backup\\ShevtsovaLab1\\ShevtsovaLab1\\obj\\",
+        "outputPath": "E:\\4 курс\\ТРПО\\Лаб 1\\ShevtsovaLab1\\ShevtsovaLab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\el432\\AppData\\Roaming\\NuGet\\NuGet.Config",

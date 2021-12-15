@@ -3,14 +3,11 @@ E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp2.1\ShevtsovaLab1.runtimeconfig.dev.json
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp2.1\ShevtsovaLab1.dll
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp2.1\ShevtsovaLab1.pdb
-E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.csproj.AssemblyReference.cache
-E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.GeneratedMSBuildEditorConfig.editorconfig
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.AssemblyInfoInputs.cache
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.AssemblyInfo.cs
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.csproj.CoreCompileInputs.cache
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.dll
 E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.pdb
-E:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\obj\Debug\netcoreapp2.1\ShevtsovaLab1.genruntimeconfig.cache
 D:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp2.1\ShevtsovaLab1.deps.json
 D:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp2.1\ShevtsovaLab1.runtimeconfig.json
 D:\4 курс\ТРПО\Лаб 1\ShevtsovaLab1\ShevtsovaLab1\bin\Debug\netcoreapp2.1\ShevtsovaLab1.runtimeconfig.dev.json
